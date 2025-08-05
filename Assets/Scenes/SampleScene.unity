@@ -853,11 +853,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3007247163249231029, guid: da35f9d324540f24e8bb3894356f6fb7, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.84819627
+      value: 0.99944675
       objectReference: {fileID: 0}
     - target: {fileID: 3007247163249231029, guid: da35f9d324540f24e8bb3894356f6fb7, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.529682
+      value: -0.033261623
       objectReference: {fileID: 0}
     - target: {fileID: 3007247163249231029, guid: da35f9d324540f24e8bb3894356f6fb7, type: 3}
       propertyPath: m_LocalRotation.y
@@ -865,8 +865,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3007247163249231029, guid: da35f9d324540f24e8bb3894356f6fb7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -63.968
+      value: -3.812
       objectReference: {fileID: 0}
+    - target: {fileID: 6703332722903162404, guid: da35f9d324540f24e8bb3894356f6fb7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f6c321d36f072f942a7260034d148fff, type: 2}
     - target: {fileID: 7193330143134413577, guid: da35f9d324540f24e8bb3894356f6fb7, type: 3}
       propertyPath: m_Name
       value: bookfinalfinal
@@ -947,6 +951,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.x
       value: -21.458
       objectReference: {fileID: 0}
+    - target: {fileID: 8962565867832188790, guid: da35f9d324540f24e8bb3894356f6fb7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f6c321d36f072f942a7260034d148fff, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
