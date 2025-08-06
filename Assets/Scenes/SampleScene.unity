@@ -349,6 +349,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: fishbowl_customer_rig
       objectReference: {fileID: 0}
+    - target: {fileID: 1916664191071316535, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
+      propertyPath: 'm_BlendShapeWeights.Array.data[0]'
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916664191071316535, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
+      propertyPath: 'm_BlendShapeWeights.Array.data[2]'
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916664191071316535, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
+      propertyPath: 'm_BlendShapeWeights.Array.data[3]'
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916664191071316535, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
+      propertyPath: 'm_BlendShapeWeights.Array.data[4]'
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916664191071316535, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
+      propertyPath: 'm_BlendShapeWeights.Array.data[5]'
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6218867972929393094, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -356,8 +376,38 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -6141464502897758467, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 279243236}
   m_SourcePrefab: {fileID: 100100000, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
+--- !u!1 &279243235 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6141464502897758467, guid: 6bc0471732c769e4dbe078da2ae57deb, type: 3}
+  m_PrefabInstance: {fileID: 279243234}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &279243236
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 279243235}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4a37d17d9cebf534694289c58faebd5f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &282450855
 PrefabInstance:
   m_ObjectHideFlags: 0
