@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: db36611e1efbfd643aba070e87468c1a
+guid: b5c6ce1d05509834c826bc983915ff70
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: standardSurface1
-    second: {fileID: 2100000, guid: 6153321b216ed09418f2c3afdbecd034, type: 2}
+      name: flower
+    second: {fileID: 2100000, guid: 903c2c49756fdce45b9a7b4bf8e3f103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower2
+    second: {fileID: 2100000, guid: f03694699d8ecc546a6ad5ad714c958c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

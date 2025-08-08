@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: 9f7a9079652476a47a8c02a6da86de5d
+guid: c8522075a7224b4499872fa141ffacb2
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: bumper1
-    second: {fileID: 2100000, guid: 00db84b516331ba4680e3465366f8971, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: cauldron1
-    second: {fileID: 2100000, guid: 8c0c49c807e104944af55296cd44a0d6, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
