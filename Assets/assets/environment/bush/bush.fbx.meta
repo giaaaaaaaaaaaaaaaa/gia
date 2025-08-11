@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c8522075a7224b4499872fa141ffacb2
+guid: 9299cf924d649a64dad90719af936aff
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: bookstand
-    second: {fileID: 2100000, guid: 558b274a39104b345a75437db73dd811, type: 2}
+      name: bush1
+    second: {fileID: 2100000, guid: 2ca5877091c25e349a589c03c729f27c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
